@@ -1,0 +1,7 @@
+常用操作
+npm install -g hexo       #安装Hexo
+mkdir cfuns				  #建立blog目录
+hexo init				  #生成blog模板
+hexo n "hello world"	  #生成hello world 文章
+hexo g                    #生成静态blog == hexo generate
+hexo s                    #在本地运行服务器 == hexo server
